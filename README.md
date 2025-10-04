@@ -4,7 +4,7 @@
 
 ---
 
-## 📌 Project Description
+##  Project Description
 **GAMEDEV_final** is a Unity project that combines three mini-games into one:
 1. **Mad Driver (Driving Game)** 🚗 — Avoid obstacles while driving forward.
 2. **Fly Like a Bird (Flying Game)** 🕊️ — Navigate between pipes in a Flappy Bird–style game.
@@ -18,7 +18,7 @@ The project also features:
 
 ---
 
-## ⚙️ Installation & Setup
+##  Installation & Setup
 1. Clone the repo:
    ```bash
    git clone https://github.com/YunnYamoneAung/GAMEDEV_final.git
